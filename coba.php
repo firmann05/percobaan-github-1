@@ -1,0 +1,6 @@
+<?php
+$num = 1;
+while ($num < 5) {
+    echo $num . " ";
+    $num += 2;
+}
